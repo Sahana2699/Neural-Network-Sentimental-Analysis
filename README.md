@@ -75,7 +75,7 @@ graduate-project-sahana-santhosh/
 1. Clone the repository  
    ```bash
    git clone https://github.com/yourusername/nn-sentiment-classifier.git
-   cd graduate-project-rozay-avb-dev-main
+   cd graduate-project-sahana-santhosh
    ```  
 2. Install requirements  
    ```bash
