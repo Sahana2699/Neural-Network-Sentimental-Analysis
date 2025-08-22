@@ -15,7 +15,7 @@ The model was submitted to a **Codabench competition** as part of the class-wide
 
 ## 🗂️ Project Structure  
 ```
-graduate-project-rozay-avb-dev-main/
+graduate-project-sahana-santhosh/
 │── nn.py            # Training script with transformer + Keras pipeline  
 │── requirements.txt # Dependencies  
 │── README.md        # Project overview (this file)
@@ -67,7 +67,7 @@ graduate-project-rozay-avb-dev-main/
 ---
 
 ## 👩‍💻 Contributors  
-- [Your Name] — Model implementation, hyperparameter tuning, evaluation setup  
+- [Sahana Santhosh] — Model implementation, hyperparameter tuning, evaluation setup  
 
 ---
 
